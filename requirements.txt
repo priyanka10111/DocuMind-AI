@@ -1,0 +1,9 @@
+streamlit
+langchain==0.0.352
+langchain-community
+sentence-transformers
+transformers
+accelerate
+faiss-cpu
+PyPDF2
+python-dotenv
